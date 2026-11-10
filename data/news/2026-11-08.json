@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "domain": "news",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-09T02:07:47Z",
+  "source": {
+    "provider": "migration",
+    "repos": [
+      "dashboards/news"
+    ]
+  },
+  "items": []
+}
